@@ -1,1 +1,2 @@
 # Greenland-Temperature-Data-Science-program
+In this program, I analized Greenland Temperature data from [1991-2020] as well as Rainfall data in the same period. Afterwards, I recollected data about the sea level raise in Atlantic sea from [1993-2020]. Using dictionaries, lists, control flow and files; I resumed the info in a python file so the user can references to the app to get data about the evolution of GL Temperature and its possible correlation with the increase in At sea level through time.
